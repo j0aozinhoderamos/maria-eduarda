@@ -1,8 +1,9 @@
 <!DOCTYPE html>
+ <h1>Bem-vindo ao meu site! maria eduarda</h1>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>GameZone</title>
+    <title>maria eduarda</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -70,7 +71,7 @@
     </style>
 </head>
 <body>
-    <h1>Bem-vindo ao meu site!</h1>
+   
 </body>
 </html>
 
